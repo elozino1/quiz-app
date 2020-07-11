@@ -1,0 +1,36 @@
+body {
+	background-color: #abc;
+}
+
+.center {
+  text-align: center;
+}
+
+.score-header {
+  font-size: 2rem;
+}
+
+.score {
+  font-size: 2.7rem;
+  font-weight: 800;
+}
+
+.note {
+  font-size: 2.5rem;
+}
+
+.btn {
+  display: block;
+  text-align: center;
+  margin: 0 auto 30px auto;
+  padding: 10px;
+  font-size: 1.4rem;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
